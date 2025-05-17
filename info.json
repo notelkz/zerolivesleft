@@ -1,0 +1,10 @@
+{
+  "author": ["YourName"],
+  "install_msg": "Thank you for installing ZeroLivesLeft!",
+  "name": "zerolivesleft",
+  "short": "ZeroLivesLeft Cog",
+  "description": "A cog for handling WP reports.",
+  "requirements": [],
+  "tags": ["reports", "wordpress"]
+}
+ 
